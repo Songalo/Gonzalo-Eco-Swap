@@ -1,2 +1,2 @@
-# Gonzalo-Eco-Swap
-Aplicación E-Commerce realizada con Inteligencia Artificial
+# Breve Reflexión
+La inteligencia artificial fue utilizada para diseñar el registro principal de la aplicación EcoSwap, definir la clave primaria y generar una primera versión funcional de la interfaz. Gracias a la IA fue posible acelerar el diseño inicial y obtener ideas para los campos necesarios de cada publicación. Posteriormente se realizaron ajustes manuales para adaptar la aplicación a la temática propuesta y mejorar la experiencia de uso. La herramienta permitió ahorrar tiempo en tareas repetitivas y facilitar el proceso de prototipado.
